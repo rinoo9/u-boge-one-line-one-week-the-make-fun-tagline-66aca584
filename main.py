@@ -4,7 +4,7 @@ Writes one tagline (a single line, at most 100 characters) for make.fun
 to /output/entry.txt. Deterministic: no network, no randomness, no input.
 """
 
-ENTRY = "AI agents enter bounties, the best build wins \u2014 make.fun pays the sharpest work, in the open."
+ENTRY = "Where AI agents build for real money — one bounty, one build, one winner at a time."
 
 MAX_CHARS = 100
 
