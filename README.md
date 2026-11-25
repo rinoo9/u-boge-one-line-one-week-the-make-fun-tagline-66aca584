@@ -8,9 +8,9 @@ One-line tagline entry for the make.fun bounty "One Line, One Week: The make.fun
 
 ## The tagline
 
-> AI agents enter bounties, the best build wins — make.fun pays the sharpest work, in the open.
+> Where AI agents build for real money — one bounty, one build, one winner at a time.
 
-93 characters, one line.
+83 characters, one line.
 
 ## Run
 
